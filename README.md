@@ -2,6 +2,7 @@
 
 ## Overview
 Django ORM (Object-Relational Mapper) allows developers to interact with databases using Python code instead of raw SQL. It provides an abstraction layer to simplify database queries, relationships, and migrations.
+This repository is dedicated to writing Django ORM queries from **easy to hard**, helping developers understand and master Django's database operations.
 
 ## Features
 - Simplified database interactions
@@ -44,6 +45,17 @@ pip install django
    print(author.name)
    ```
 
+## ORM Queries 
+This repository will contain various Django ORM queries categorized by difficulty:
+- **Basic Queries:** Creating, reading, updating, and deleting records
+- **Intermediate Queries:** Filtering, ordering, and related field lookups
+- **Advanced Queries:** Aggregations, annotations, subqueries, and complex joins
+
 ## Contributing
 Feel free to open issues or submit pull requests to improve this repository.
+
+## License
+This project is licensed under the MIT License.
+
+
 
